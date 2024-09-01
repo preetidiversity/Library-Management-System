@@ -73,10 +73,6 @@ We welcome contributions! Please follow these steps:
 
 **Note**: Follow the coding style and write clear commit messages.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - **[MySQL Connector/Python](https://dev.mysql.com/downloads/connector/python/)**: For database connectivity.
